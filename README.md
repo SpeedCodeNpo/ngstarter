@@ -3,9 +3,8 @@
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/json-server-yyzhot)
 
 # Ng Starter
-Welcome to Speed Code Academy Training project.
-This project is the base project for "Angular Job Skill".
-
+Welcome to Speed Code Academy Starter project.
+This project basiccally has just a "ng new" content
 
 ## Angular Job Skill
 
